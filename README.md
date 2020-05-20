@@ -1,2 +1,2 @@
-# gh-actions-test
+# Github Actions Test
 GH Actions
